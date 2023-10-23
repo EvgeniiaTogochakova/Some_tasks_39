@@ -1,6 +1,6 @@
-#Building a website using HTML and CSS. 
+# Building a website using HTML and CSS. 
 
-##Workshop 1. Homework. 
+## Workshop 1. Homework. 
 
 1.Скачать и настроить редактор кода, если этого не сделали на семинаре
 2.Создать пустую папку, придумать название
